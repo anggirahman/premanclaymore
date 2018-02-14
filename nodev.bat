@@ -1,0 +1,1 @@
+stratum_proxy.py 0.0.0.0 8008 eth-asia1.nanopool.org 9999 0xe7ead12c99140b8216b586ff051f4f5a93a995c8
